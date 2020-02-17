@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b53e26-4f9f-4ffe-879f-e7fc0a0660d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UxmASDJjZUF9GK1n6Kwt8CrWWD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.breadth_first_search">
+    <configuration name="breadth_first_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithms/breadth_first_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fast_sortion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithms/fast_sortion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/urllib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/urllib/get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithms/hash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/algorithms/recursion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.breadth_first_search" />
+        <item itemvalue="Python.get_data" />
+        <item itemvalue="Python.hash" />
+        <item itemvalue="Python.recursion" />
+        <item itemvalue="Python.fast_sortion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b53e26-4f9f-4ffe-879f-e7fc0a0660d0" name="Default Changelist" comment="" />
+      <created>1576306476593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576306476593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2127" y="184" width="379" height="274" key="FileChooserDialogImpl" timestamp="1578971572566">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="709" y="202" key="FileChooserDialogImpl/0.27.3046.1023@0.27.3046.1023" timestamp="1576348504138" />
+    <state x="391" y="201" key="FileChooserDialogImpl/1680.0.1366.768/0.27.1680.1023@0.27.1680.1023" timestamp="1576742676783" />
+    <state x="1998" y="131" width="374" height="364" key="FileChooserDialogImpl/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576573096835" />
+    <state x="391" y="201" key="FileChooserDialogImpl/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577983113992" />
+    <state x="1998" y="413" width="379" height="274" key="FileChooserDialogImpl/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577720822935" />
+    <state x="483" y="154" width="424" height="484" key="FileChooserDialogImpl/1920.312.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1576306544890" />
+    <state x="2127" y="184" key="FileChooserDialogImpl/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1578971572566" />
+    <state width="1897" height="354" key="GridCell.Tab.0.bottom" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="175" key="GridCell.Tab.0.bottom/0.27.3046.1023@0.27.3046.1023" timestamp="1576348512495" />
+    <state width="1308" height="175" key="GridCell.Tab.0.bottom/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576584335457" />
+    <state width="1657" height="276" key="GridCell.Tab.0.bottom/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577913592107" />
+    <state width="1657" height="173" key="GridCell.Tab.0.bottom/1680.282.1366.768/0.309.1680.741@0.309.1680.741" timestamp="1578650164611" />
+    <state width="1308" height="173" key="GridCell.Tab.0.bottom/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578650153529" />
+    <state width="1308" height="173" key="GridCell.Tab.0.bottom/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619044663" />
+    <state width="1308" height="175" key="GridCell.Tab.0.bottom/35.27.1331.741@35.27.1331.741" timestamp="1577825369620" />
+    <state width="1897" height="354" key="GridCell.Tab.0.bottom/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1874" height="234" key="GridCell.Tab.0.bottom/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578666309167" />
+    <state width="1897" height="354" key="GridCell.Tab.0.center" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="175" key="GridCell.Tab.0.center/0.27.3046.1023@0.27.3046.1023" timestamp="1576348512494" />
+    <state width="1308" height="175" key="GridCell.Tab.0.center/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576584335457" />
+    <state width="1657" height="276" key="GridCell.Tab.0.center/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577913592107" />
+    <state width="1657" height="173" key="GridCell.Tab.0.center/1680.282.1366.768/0.309.1680.741@0.309.1680.741" timestamp="1578650164611" />
+    <state width="1308" height="173" key="GridCell.Tab.0.center/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578650153529" />
+    <state width="1308" height="173" key="GridCell.Tab.0.center/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619044663" />
+    <state width="1308" height="175" key="GridCell.Tab.0.center/35.27.1331.741@35.27.1331.741" timestamp="1577825369620" />
+    <state width="1897" height="354" key="GridCell.Tab.0.center/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1874" height="234" key="GridCell.Tab.0.center/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578666309167" />
+    <state width="1897" height="354" key="GridCell.Tab.0.left" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="175" key="GridCell.Tab.0.left/0.27.3046.1023@0.27.3046.1023" timestamp="1576348512494" />
+    <state width="1308" height="175" key="GridCell.Tab.0.left/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576584335456" />
+    <state width="1657" height="276" key="GridCell.Tab.0.left/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577913592107" />
+    <state width="1657" height="173" key="GridCell.Tab.0.left/1680.282.1366.768/0.309.1680.741@0.309.1680.741" timestamp="1578650164611" />
+    <state width="1308" height="173" key="GridCell.Tab.0.left/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578650153529" />
+    <state width="1308" height="173" key="GridCell.Tab.0.left/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619044663" />
+    <state width="1308" height="175" key="GridCell.Tab.0.left/35.27.1331.741@35.27.1331.741" timestamp="1577825369619" />
+    <state width="1897" height="354" key="GridCell.Tab.0.left/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1874" height="234" key="GridCell.Tab.0.left/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578666309167" />
+    <state width="1897" height="354" key="GridCell.Tab.0.right" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="175" key="GridCell.Tab.0.right/0.27.3046.1023@0.27.3046.1023" timestamp="1576348512494" />
+    <state width="1308" height="175" key="GridCell.Tab.0.right/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576584335457" />
+    <state width="1657" height="276" key="GridCell.Tab.0.right/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577913592107" />
+    <state width="1657" height="173" key="GridCell.Tab.0.right/1680.282.1366.768/0.309.1680.741@0.309.1680.741" timestamp="1578650164611" />
+    <state width="1308" height="173" key="GridCell.Tab.0.right/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578650153529" />
+    <state width="1308" height="173" key="GridCell.Tab.0.right/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619044663" />
+    <state width="1308" height="175" key="GridCell.Tab.0.right/35.27.1331.741@35.27.1331.741" timestamp="1577825369620" />
+    <state width="1897" height="354" key="GridCell.Tab.0.right/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1874" height="234" key="GridCell.Tab.0.right/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578666309167" />
+    <state width="1897" height="354" key="GridCell.Tab.1.bottom" timestamp="1579102226911">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="219" key="GridCell.Tab.1.bottom/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576583227102" />
+    <state width="1308" height="219" key="GridCell.Tab.1.bottom/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577721761036" />
+    <state width="1308" height="219" key="GridCell.Tab.1.bottom/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619001512" />
+    <state width="1897" height="354" key="GridCell.Tab.1.bottom/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226911" />
+    <state width="1897" height="354" key="GridCell.Tab.1.bottom/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578663446565" />
+    <state width="1897" height="354" key="GridCell.Tab.1.center" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="219" key="GridCell.Tab.1.center/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576583227102" />
+    <state width="1308" height="219" key="GridCell.Tab.1.center/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577721761036" />
+    <state width="1308" height="219" key="GridCell.Tab.1.center/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619001512" />
+    <state width="1897" height="354" key="GridCell.Tab.1.center/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1897" height="354" key="GridCell.Tab.1.center/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578663446565" />
+    <state width="1897" height="354" key="GridCell.Tab.1.left" timestamp="1579102226910">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="219" key="GridCell.Tab.1.left/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576583227102" />
+    <state width="1308" height="219" key="GridCell.Tab.1.left/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577721761036" />
+    <state width="1308" height="219" key="GridCell.Tab.1.left/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619001512" />
+    <state width="1897" height="354" key="GridCell.Tab.1.left/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226910" />
+    <state width="1897" height="354" key="GridCell.Tab.1.left/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578663446565" />
+    <state width="1897" height="354" key="GridCell.Tab.1.right" timestamp="1579102226911">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1308" height="219" key="GridCell.Tab.1.right/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576583227102" />
+    <state width="1308" height="219" key="GridCell.Tab.1.right/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577721761036" />
+    <state width="1308" height="219" key="GridCell.Tab.1.right/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578619001512" />
+    <state width="1897" height="354" key="GridCell.Tab.1.right/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579102226911" />
+    <state width="1897" height="354" key="GridCell.Tab.1.right/3600.0.1366.768/1680.0.1920.1080/35.27.1645.1023@1680.0.1920.1080" timestamp="1578663446565" />
+    <state x="189" y="31" key="SettingsEditor" timestamp="1576306637666">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="189" y="31" key="SettingsEditor/1920.312.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1576306637666" />
+    <state x="356" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1580554532962">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="405" y="299" key="com.intellij.ide.util.TipDialog/1680.0.1366.768/0.27.1680.1023@0.27.1680.1023" timestamp="1576741425068" />
+    <state x="2009" y="204" key="com.intellij.ide.util.TipDialog/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576512054202" />
+    <state x="405" y="299" key="com.intellij.ide.util.TipDialog/1680.0.1366.768/3046.0.1920.1080/0.27.1680.1023@0.27.1680.1023" timestamp="1577980738202" />
+    <state x="2009" y="486" key="com.intellij.ide.util.TipDialog/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578602843013" />
+    <state x="356" y="224" key="com.intellij.ide.util.TipDialog/35.27.1331.741@35.27.1331.741" timestamp="1580554532962" />
+    <state x="2142" y="287" key="com.intellij.ide.util.TipDialog/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579058103858" />
+    <state x="2142" y="287" key="com.intellij.ide.util.TipDialog/35.27.1645.1023/1680.0.1920.1080@1680.0.1920.1080" timestamp="1579290946464" />
+    <state x="2142" y="287" key="com.intellij.ide.util.TipDialog/3600.0.1366.768/1680.0.1920.1080/0.27.1680.1023@1680.0.1920.1080" timestamp="1578661949818" />
+    <state x="2159" y="349" width="748" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578612920816">
+      <screen x="1680" y="282" width="1366" height="768" />
+    </state>
+    <state x="2159" y="67" width="432" height="658" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576583217769" />
+    <state x="2159" y="349" width="748" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1578612920816" />
+    <state x="250" y="135" width="890" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578618946906">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="250" y="135" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1578618946906" />
+    <state x="250" y="135" width="890" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/35.27.1331.741@35.27.1331.741" timestamp="1576338990842" />
+    <state x="2153" y="90" width="970" height="989" key="search.everywhere.popup" timestamp="1579059154565">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2017" y="64" width="690" height="703" key="search.everywhere.popup/1680.0.1366.768/0.27.1680.1023@1680.0.1366.768" timestamp="1576581217327" />
+    <state x="2017" y="346" width="691" height="704" key="search.everywhere.popup/1680.282.1366.768/0.309.1680.741@1680.282.1366.768" timestamp="1577701587467" />
+    <state x="363" y="89" width="673" height="679" key="search.everywhere.popup/1680.282.1366.768/35.27.1331.741@35.27.1331.741" timestamp="1577665902236" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/35.27.1331.741@35.27.1331.741" timestamp="1577816009458" />
+    <state x="2153" y="90" width="970" height="989" key="search.everywhere.popup/35.27.1645.1023/1680.0.1920.1080/3600.0.1366.768@1680.0.1920.1080" timestamp="1579059154565" />
+  </component>
+</project>
